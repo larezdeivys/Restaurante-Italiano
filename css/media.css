@@ -76,6 +76,12 @@
 	.infoChef .Btn{
 		font-size: 1.2rem;
 	}
+	.imgConten{
+		width: 80%;
+	}
+	.chef .img{
+		width: 25rem;
+	}
 	/*contacto*/
 	.contactos{
 		width: 80%;

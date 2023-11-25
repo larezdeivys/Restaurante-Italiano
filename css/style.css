@@ -22,7 +22,7 @@ html{
 /*NAVBAR*/
 .navbar{
 	width: 100%;
-	height: 2.5rem;
+	height: 4rem;
 	background-color: var(--negro);
 
 	display: flex;
@@ -431,13 +431,12 @@ html{
 	transform: scale(1.1);
 }
 .imgConten{
-	width: 80%;
+	width: 75%;
 	margin: auto;
 }
 .chef .img{
 	padding-top: 3rem;
-	width: 100%;
-	height: 25rem;
+	width: 15rem;
 }
 /*SECCION DE CONTACTOS*/
 .contactos{
